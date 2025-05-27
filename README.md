@@ -1,3 +1,10 @@
+⚠ **Notice**
+
+This project is proprietary. No use, reproduction, modification, or distribution of this software or its source code is allowed without explicit written permission from the authors, Team Aspire.
+
+If you wish to reference this work or request usage permissions, please contact the authors directly.
+
+Unauthorized use will be considered a violation of copyright and may lead to legal action.
 
 <img align = "right" src="diatracker-logo.png" width="500" height = "400"/>
 
